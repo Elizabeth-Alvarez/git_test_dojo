@@ -1,0 +1,55 @@
+.container{
+  width:1000px;
+  height:730px;
+  background-color:silver;
+}
+.header{
+  width:1000px;
+  height:160px;
+  background-color:yellow;
+  display:inline-block;
+}
+.header h1{
+  display:inline-block;
+}
+#logo{
+  display:inline-block;
+}
+.navbar{
+  width:430px;
+  height:35px;
+  background-color:blue;
+  display:inline-block;
+  vertical-align:top;
+}
+.navbar h1{
+  display:inline-block;
+}
+  .navbar ul{
+    display:inline-block;
+    vertical-align:top;
+  }
+  .navbar ul li{
+    display:inline-block;
+  }
+.sidebar{
+  width:230px;
+  height:570px;
+  background-color:green;
+  display:inline-block;
+}
+.button{
+  width:225px;
+  height:30px;
+}
+.maincontent{
+  width:750px;
+  height:570px;
+  background-color:purple;
+  display:inline-block;
+}
+.tryout{
+  width:650px;
+  height:150px;
+  background-color:orange;
+}
